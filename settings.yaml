@@ -1,0 +1,6 @@
+top_char: 1200
+
+deepseek:
+  api_key: "your_api_key"
+  model: "deepseek-v4-flash"
+  base_url: "https://api.deepseek.com"
