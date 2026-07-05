@@ -1,5 +1,5 @@
 # Huishang QCFA Agent
-
+（本项目以徽商研究为例，其数据合成思想可以用于各类专业领域。）
 徽商研究数据集生成工具 —— 从公开书籍文本中自动抽取经营活动事实，生成 QCFA（Question-Chunk-Fact-Answer）结构化问答数据。
 
 ## 项目背景
